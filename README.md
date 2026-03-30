@@ -107,15 +107,13 @@ The analysis followed a structured **ETL pipeline**:
 </details>
 
 ---
-<details>
+
 <summary id="Details_Challenge"> 🏆 Details par rapport au Challenge </summary>
 
 Organisateur : Tresor ADOSSI : Mini Challenge 31 – October 2025 
 
 Theme: Challenge Power-BI Chaine d'Approvisionnement Cacao (Cote d'Ivoire)
 
-
-</details>
 ---
 
 [![Power BI Dashboard](https://img.shields.io/badge/Click_here_to_access_the_interactive_dashboard-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDU0YTIwNTEtN2VjMi00NjA5LWJkOTgtOTI2MGQwMDIyY2RmIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
