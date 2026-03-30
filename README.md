@@ -34,3 +34,7 @@ Projet réalisé dans le cadre d’un challenge en data analytics, portant sur l
 
 <img width="875" height="495" alt="Screenshot 2026-03-30 165200" src="https://github.com/user-attachments/assets/858e33b2-c829-4842-8862-312f73e7a9d1" />
 
+## 🏆 Challenge Details
+
+Organisateur : Tresor ADOSSI : Mini Challenge 31 – October 2025 
+Theme: Challenge Power-BI Chaine d'Approvisionnement Cacao (Cote d'Ivoire)
