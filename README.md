@@ -1,2 +1,2 @@
-# Analyse-de-la-cha-ne-de-valeur-du-cacao-en-C-te-d-Ivoire-Power-BI-Challenge-Mars-2026
+# Analyse-de-la-chaine-de-valeur-du-cacao-en-Cote-d'Ivoire-Power-BI-Challenge-Mars-2026
 Projet réalisé dans le cadre d’un challenge en data analytics, portant sur la chaîne de valeur du cacao en Côte d’Ivoire. Il consiste à développer un dashboard Power BI interactif pour analyser la supply chain, de la production à l’export, et générer des insights sur la performance, la qualité et la logistique.
