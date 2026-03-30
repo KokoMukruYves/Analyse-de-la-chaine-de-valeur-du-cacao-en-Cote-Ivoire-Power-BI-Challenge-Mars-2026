@@ -5,6 +5,11 @@
 
 Projet réalisé dans le cadre d’un challenge en data analytics, portant sur la chaîne de valeur du cacao en Côte d’Ivoire. Il consiste à développer un dashboard Power BI interactif pour analyser la supply chain, de la production à l’export, et générer des insights sur la performance, la qualité et la logistique.
 
+#Modelisation en Etoile
+
+<img width="699" height="498" alt="image" src="https://github.com/user-attachments/assets/b4682f96-eaf3-4873-85ef-5f43812bf9aa" />
+
+
 ## Vue d'ensemble
 <img width="881" height="497" alt="Screenshot 2026-03-30 164614" src="https://github.com/user-attachments/assets/7e4f840a-2bf1-4c67-8f41-f1d1804d49a5" />
 
