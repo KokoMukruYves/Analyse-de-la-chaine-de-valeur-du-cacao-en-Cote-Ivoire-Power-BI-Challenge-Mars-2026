@@ -5,19 +5,27 @@
 
 Projet réalisé dans le cadre d’un challenge en data analytics, portant sur la chaîne de valeur du cacao en Côte d’Ivoire. Il consiste à développer un dashboard Power BI interactif pour analyser la supply chain, de la production à l’export, et générer des insights sur la performance, la qualité et la logistique.
 
-
+## Vue d'ensemble
 <img width="881" height="497" alt="Screenshot 2026-03-30 164614" src="https://github.com/user-attachments/assets/7e4f840a-2bf1-4c67-8f41-f1d1804d49a5" />
 
+## Analyse du Flux du Cacao
 <img width="879" height="495" alt="Screenshot 2026-03-30 164801" src="https://github.com/user-attachments/assets/919d5d69-4857-48a5-90af-4389b59e4858" />
 
-
+## Analyse de la Performance
 <img width="871" height="486" alt="Screenshot 2026-03-30 175536" src="https://github.com/user-attachments/assets/c07283bf-0ff1-4f3a-ac07-9a55499acae9" />
+
+## Analyse de la tendance dans le temps
 
 <img width="879" height="497" alt="Screenshot 2026-03-30 164854" src="https://github.com/user-attachments/assets/8ff52535-6723-4f8e-84ed-13d9f0d5fe59" />
 
+## Analyse Geographique
 <img width="880" height="496" alt="Screenshot 2026-03-30 165026" src="https://github.com/user-attachments/assets/f6966fab-ffb3-46e7-b44c-167afd128dd9" />
 
+## Ports et Exports
 <img width="877" height="492" alt="Screenshot 2026-03-30 165134" src="https://github.com/user-attachments/assets/5db54440-039d-4287-b7b4-b3c55acc50df" />
+
+## Impact de la Variation de certains parametres
+
 <img width="874" height="492" alt="image" src="https://github.com/user-attachments/assets/86e7f8de-0463-45e9-b3e8-32a2bb0c9b97" />
 
 
