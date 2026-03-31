@@ -28,7 +28,7 @@ Les données d'analyse sont organisées en 10 tables dont 9 dimensions et une de
 Pour développer des fonctions temporelles intelligences, la table date a été également créée ainsi que 3 autres tables permettant de capter l'impact de la variation de certains paramétres sur les indicateurs de performance de la chaine de valeur du Cacao. Tel est le cas de table sur la variation du prix, du taux de change et de la surface cultivée.
 
 
-## 📥🧽Processus ETL
+## 🧹Processus ETL
 
 Le processus ETL a consisté principalement au Nettoyage, transformation et importation des données (OLAP).
 
