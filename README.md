@@ -72,7 +72,7 @@ Après s'etre rassuré que les données sont déjà  de qualité et donc prépar
 
 ---
 
-## Tableau de Bord Interactif développé 
+## 📅📊 Tableau de Bord Interactif développé 
 
 
 ![ezgif com-speed](https://github.com/user-attachments/assets/d0d233d8-c9d1-42b1-b3c9-9f4bfff472e6)
