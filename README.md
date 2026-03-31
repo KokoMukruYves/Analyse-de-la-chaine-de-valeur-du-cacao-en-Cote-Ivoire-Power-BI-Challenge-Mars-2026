@@ -90,22 +90,65 @@ Chiffre d’affaires : 41.06T FCFA
 
 Marge bénéficiaire : 4.9% #Faible
 
+🚚 4. Performance logistique
+
+
 Coût logistique/tonne : 3.2K FCFA #Trop eleve
+
+Certains transporteurs ont un coût par kg significativement plus élevé.
 
 Activité la plus coûteuse : 🚢 Export (~13K)
 
-Taux de perte : 1.77%
+Transport dominant : Camion + Rail
+
+Ce qui traduit un manque d’optimisation des trajets et l'existance de sous-traitant moins performant
+
+📉 3. Pertes dans la chaîne de valeur
+
+Taux de perte moyenne : 1.77%
+Les pertes ne sont pas homogènes : elles se concentrent sur certaines étapes (transport / stockage).
+
+💧 4. Qualité du cacao (Humidité)
 
 Humidité moyenne : 7.5%
 
+Certaines zones présentent des niveaux d’humidité supérieurs aux standards (≈ 7–8%) avec comme conséquence leur rejet à l'importation
+
+Recommendations: 
+✔ Renforcer le séchage post-récolte
+✔ Former les producteurs
+
+🌱 5. Performance de production
+
+
+La production est fortement concentrée autour de certaines coopératives et fermes clés.
+Une minorité de coopératives et fermes génèrent la majorité du volume entrainant une forte forte dépendance.
+
+Comme solution, il diversifier la base de producteur.
+
+
+⚖️ 6. Rentabilité & prix
+
+Le prix moyen varie selon :
+la qualité (humidité)
+la certification
+le grade (Premium vs Standard)
+
 Produits premium génèrent le plus de revenus
+
+🏭 Certification & valeur
 
 Certification = impact positif sur CA
 
+Les lots certifiés ont une valeur nette supérieure grâce aux primes car la prime de certification augmente le revenu.
+
 Flux dominants :Coop → Centre collecte → Transport → Port
 
+📈 8. Dynamique temporelle
 
-Transport dominant : Camion + Rail
+Forte saisonnalité de la production (campagnes cacao)
+
+Ce qui peut entrainer qu'il y ait de fluctuations fortes pour une et non telle autre periode. 
 
 🗺
 ⏳
@@ -133,6 +176,8 @@ Transport dominant : Camion + Rail
     o	Intelligence Temporelle ;
     
     o	Design du Dashboard clair et attrayant ;
+    
+    o	Visualisations interactives avec ZoomCharts
     
     o	Analyse Géographique et de la Chaine Logistique.
     
