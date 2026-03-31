@@ -83,18 +83,34 @@ Après s'etre rassuré que les données sont déjà  de qualité et donc prépar
 
 
 Production totale : 290.7K tonnes
+
 Forte contribution de certaines zones (ex : Lacs)
+
 Chiffre d’affaires : 41.06T FCFA
+
 Marge bénéficiaire : 4.9% #Faible
+
 Coût logistique/tonne : 3.2K FCFA #Trop eleve
-Activité la plus coûteuse : Export (~13K)
+
+Activité la plus coûteuse : 🚢 Export (~13K)
+
 Taux de perte : 1.77%
+
 Humidité moyenne : 7.5%
+
 Produits premium génèrent le plus de revenus
+
 Certification = impact positif sur CA
-Flux dominants :
-Coop → Centre collecte → Transport → Port
+
+Flux dominants :Coop → Centre collecte → Transport → Port
+
+
 Transport dominant : Camion + Rail
+
+🗺
+⏳
+👥
+
 ---
 
 ## Recommendations
@@ -121,6 +137,13 @@ Transport dominant : Camion + Rail
     o	Analyse Géographique et de la Chaine Logistique.
     
 ---
+## 🎯 Conclusion
+
+Ce projet démontre comment un nettoyage, une transformation et une modélisation structurés des données permettent de convertir des jeux de données bruts en insights analytiques pertinents.
+
+Le tableau de bord offre une vue claire et structurée de la chaîne d’approvisionnement du cacao ainsi que de son évolution selon les événements, les modes de transport, les périodes et les régions géographiques en Côte d’Ivoire.
+---
+
 
 ## 🏆 Details par rapport au Challenge
 
