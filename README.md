@@ -79,7 +79,8 @@ Après s'etre rassuré que les données sont déjà  de qualité et donc prépar
 
 ---
 
-### Résultats des analyses 
+## 🔎 Résultats des analyses 
+
 
 Production totale : 290.7K tonnes
 Forte contribution de certaines zones (ex : Lacs)
