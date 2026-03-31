@@ -11,7 +11,7 @@ Le challenge place les participants dans le rôle d'analyste de données relativ
 
 Les données sont organisées en 10 tables dont 9 dimensions et une de faits (Fact_Mouvements). Il s'agit entre autres des dimensions: Produits, Lot, Coopérative, Ferme, Evenements, Sites, Transporteurs, Ports et Devises. 
 
-Pour développer des fonctions temporelles intelligences, la table date a été également crée ainsi que 3 autres tables permettant de capter l'impact de la variation de certains paramétres sur les indicateurs de performance de la chaine de valeur du Cacao. Tel est le cas de table sur la variation du prix, du taux de change et de la surface cultivée.
+Pour développer des fonctions temporelles intelligences, la table date a été également créée ainsi que 3 autres tables permettant de capter l'impact de la variation de certains paramétres sur les indicateurs de performance de la chaine de valeur du Cacao. Tel est le cas de table sur la variation du prix, du taux de change et de la surface cultivée.
 
 Le développement de ce projet était animé par le souci d' (d):
 
