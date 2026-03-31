@@ -1,0 +1,151 @@
+site_id,site_nom,site_type,ville,departement,region,latitude,longitude
+1,Site #1,Magasin Coop,Issia,Daloa,Sassandra-Marahoué,5.134841,-6.624081
+2,Site #2,Port,Tiassalé,Agboville,Agnéby-Tiassa,6.550884,-6.131267
+3,Site #3,Centre Collecte,Yamoussoukro,Yamoussoukro,Lacs,7.390502,-5.660871
+4,Site #4,Centre Collecte,Soubré,San-Pédro,Bas-Sassandra,9.406872,-4.017743
+5,Site #5,Centre Collecte,Issia,Daloa,Sassandra-Marahoué,5.853811,-4.119034
+6,Site #6,Magasin Coop,Gagnoa,Gagnoa,Gôh-Djiboua,6.225543,-3.988436
+7,Site #7,Magasin Coop,Abidjan,Abidjan,Lagunes,6.717102,-5.794983
+8,Site #8,Magasin Coop,Guiglo,Man,Montagnes,5.116989,-2.934429
+9,Site #9,Magasin Coop,Bingerville,Abidjan,Lagunes,8.250023,-4.58812
+10,Site #10,Entrepôt Régional,Man,Man,Montagnes,5.206644,-3.869493
+11,Site #11,Magasin Coop,Yamoussoukro,Yamoussoukro,Lacs,8.519803,-6.211332
+12,Site #12,Centre Collecte,Agboville,Agboville,Agnéby-Tiassa,9.792299,-3.208009
+13,Site #13,Entrepôt Régional,Oumé,Gagnoa,Fromager,9.684702,-3.351965
+14,Site #14,Entrepôt Régional,Yamoussoukro,Yamoussoukro,Lacs,8.651368,-2.593184
+15,Site #15,Entrepôt Régional,Vavoua,Daloa,Sassandra-Marahoué,5.342681,-3.095202
+16,Site #16,Magasin Coop,Issia,Daloa,Sassandra-Marahoué,8.339563,-6.950671
+17,Site #17,Centre Collecte,Issia,Daloa,Sassandra-Marahoué,9.037103,-2.353818
+18,Site #18,Entrepôt Régional,Gagnoa,Gagnoa,Gôh-Djiboua,5.914538,-2.883835
+19,Site #19,Magasin Coop,Vavoua,Daloa,Sassandra-Marahoué,6.233957,-3.144582
+20,Site #20,Magasin Coop,Guiglo,Man,Montagnes,8.514907,-2.082433
+21,Site #21,Entrepôt Régional,Guiglo,Man,Montagnes,7.399442,-2.790123
+22,Site #22,Magasin Coop,Anyama,Abidjan,Lagunes,9.047997,-2.017199
+23,Site #23,Port,Gagnoa,Gagnoa,Gôh-Djiboua,5.900254,-6.539228
+24,Site #24,Entrepôt Régional,Lakota,Gagnoa,Gôh-Djiboua,5.709919,-2.861312
+25,Site #25,Entrepôt Régional,Man,Man,Montagnes,6.679912,-6.590326
+26,Site #26,Magasin Coop,Divo,Gagnoa,Gôh-Djiboua,5.147744,-5.131451
+27,Site #27,Entrepôt Régional,Guiglo,Man,Montagnes,9.555891,-2.342693
+28,Site #28,Magasin Coop,Agboville,Agboville,Agnéby-Tiassa,7.891734,-3.717212
+29,Site #29,Magasin Coop,Oumé,Gagnoa,Fromager,6.957538,-4.906199
+30,Site #30,Magasin Coop,Agboville,Agboville,Agnéby-Tiassa,6.830654,-2.01756
+31,Site #31,Magasin Coop,Gagnoa,Gagnoa,Gôh-Djiboua,7.545709,-5.378945
+32,Site #32,Centre Collecte,Toumodi,Yamoussoukro,Lacs,9.446737,-6.322136
+33,Site #33,Port,Issia,Daloa,Sassandra-Marahoué,7.155234,-4.014849
+34,Site #34,Magasin Coop,Soubré,San-Pédro,Bas-Sassandra,9.49377,-3.622372
+35,Site #35,Magasin Coop,Tiassalé,Agboville,Agnéby-Tiassa,7.692371,-5.045605
+36,Site #36,Magasin Coop,Anyama,Abidjan,Lagunes,7.039278,-6.480448
+37,Site #37,Magasin Coop,Daloa,Daloa,Sassandra-Marahoué,5.432794,-5.224312
+38,Site #38,Magasin Coop,Lakota,Gagnoa,Gôh-Djiboua,9.191084,-5.066193
+39,Site #39,Centre Collecte,Daloa,Daloa,Sassandra-Marahoué,5.609863,-3.997857
+40,Site #40,Entrepôt Régional,Issia,Daloa,Sassandra-Marahoué,5.586494,-4.188045
+41,Site #41,Magasin Coop,Agboville,Agboville,Agnéby-Tiassa,8.735223,-6.051002
+42,Site #42,Port,Lakota,Gagnoa,Gôh-Djiboua,7.289485,-6.498125
+43,Site #43,Centre Collecte,Vavoua,Daloa,Sassandra-Marahoué,6.263295,-3.104951
+44,Site #44,Entrepôt Régional,Lakota,Gagnoa,Gôh-Djiboua,7.764317,-6.040807
+45,Site #45,Entrepôt Régional,Ouragahio,Gagnoa,Fromager,6.493893,-2.376017
+46,Site #46,Entrepôt Régional,Gagnoa,Gagnoa,Gôh-Djiboua,9.012936,-6.047752
+47,Site #47,Magasin Coop,Vavoua,Daloa,Sassandra-Marahoué,7.6455,-4.544634
+48,Site #48,Entrepôt Régional,Guiglo,Man,Montagnes,8.341063,-2.023335
+49,Site #49,Centre Collecte,Issia,Daloa,Sassandra-Marahoué,7.792618,-6.139446
+50,Site #50,Entrepôt Régional,Divo,Gagnoa,Gôh-Djiboua,7.780468,-2.5837
+51,Site #51,Magasin Coop,Ouragahio,Gagnoa,Fromager,8.427415,-2.243288
+52,Site #52,Magasin Coop,Sassandra,San-Pédro,Bas-Sassandra,5.572165,-2.160922
+53,Site #53,Entrepôt Régional,Sassandra,San-Pédro,Bas-Sassandra,5.577561,-5.585452
+54,Site #54,Entrepôt Régional,Abidjan,Abidjan,Lagunes,7.432445,-5.811132
+55,Site #55,Magasin Coop,Yamoussoukro,Yamoussoukro,Lacs,6.91676,-4.26952
+56,Site #56,Entrepôt Régional,Guiglo,Man,Montagnes,6.797401,-2.777152
+57,Site #57,Magasin Coop,Yamoussoukro,Yamoussoukro,Lacs,8.734083,-4.029622
+58,Site #58,Magasin Coop,San-Pédro,San-Pédro,Bas-Sassandra,6.470079,-4.403097
+59,Site #59,Entrepôt Régional,Anyama,Abidjan,Lagunes,6.231509,-4.870477
+60,Site #60,Magasin Coop,San-Pédro,San-Pédro,Bas-Sassandra,5.315009,-5.854292
+61,Site #61,Centre Collecte,Toumodi,Yamoussoukro,Lacs,7.829098,-2.798104
+62,Site #62,Port,Sassandra,San-Pédro,Bas-Sassandra,6.760442,-3.133307
+63,Site #63,Centre Collecte,San-Pédro,San-Pédro,Bas-Sassandra,7.615268,-3.216851
+64,Site #64,Magasin Coop,Tiassalé,Agboville,Agnéby-Tiassa,7.159644,-6.060789
+65,Site #65,Entrepôt Régional,Divo,Gagnoa,Gôh-Djiboua,5.111519,-4.513435
+66,Site #66,Magasin Coop,Divo,Gagnoa,Gôh-Djiboua,8.631792,-5.088297
+67,Site #67,Magasin Coop,Toumodi,Yamoussoukro,Lacs,8.562881,-6.051829
+68,Site #68,Magasin Coop,Abidjan,Abidjan,Lagunes,5.780707,-4.589741
+69,Site #69,Centre Collecte,Man,Man,Montagnes,7.098174,-6.381324
+70,Site #70,Magasin Coop,Daloa,Daloa,Sassandra-Marahoué,5.971005,-5.794556
+71,Site #71,Port,Soubré,San-Pédro,Bas-Sassandra,9.852443,-5.964851
+72,Site #72,Centre Collecte,Toumodi,Yamoussoukro,Lacs,8.979352,-2.071604
+73,Site #73,Entrepôt Régional,Man,Man,Montagnes,5.82178,-2.350776
+74,Site #74,Magasin Coop,Divo,Gagnoa,Gôh-Djiboua,6.624186,-6.52659
+75,Site #75,Magasin Coop,Man,Man,Montagnes,5.31897,-2.248147
+76,Site #76,Magasin Coop,Issia,Daloa,Sassandra-Marahoué,8.06298,-6.313844
+77,Site #77,Magasin Coop,Tiassalé,Agboville,Agnéby-Tiassa,6.661142,-4.219067
+78,Site #78,Centre Collecte,Tiassalé,Agboville,Agnéby-Tiassa,9.037176,-4.858305
+79,Site #79,Entrepôt Régional,Soubré,San-Pédro,Bas-Sassandra,7.392175,-2.766619
+80,Site #80,Magasin Coop,Man,Man,Montagnes,5.966302,-3.874044
+81,Site #81,Centre Collecte,Gagnoa,Gagnoa,Gôh-Djiboua,8.831772,-4.291649
+82,Site #82,Magasin Coop,Tiassalé,Agboville,Agnéby-Tiassa,8.132136,-4.52162
+83,Site #83,Magasin Coop,Bingerville,Abidjan,Lagunes,9.862113,-2.674527
+84,Site #84,Port,Danané,Man,Montagnes,5.80647,-2.667615
+85,Site #85,Entrepôt Régional,Tiassalé,Agboville,Agnéby-Tiassa,8.016889,-4.905599
+86,Site #86,Magasin Coop,Danané,Man,Montagnes,9.211964,-4.216576
+87,Site #87,Magasin Coop,Man,Man,Montagnes,5.179528,-4.326628
+88,Site #88,Magasin Coop,Guiglo,Man,Montagnes,8.282174,-2.366643
+89,Site #89,Entrepôt Régional,Gagnoa,Gagnoa,Gôh-Djiboua,6.593416,-6.213035
+90,Site #90,Magasin Coop,Yamoussoukro,Yamoussoukro,Lacs,9.414887,-5.249637
+91,Site #91,Centre Collecte,Guiglo,Man,Montagnes,8.766232,-2.418226
+92,Site #92,Magasin Coop,Sassandra,San-Pédro,Bas-Sassandra,9.882596,-2.478541
+93,Site #93,Magasin Coop,Vavoua,Daloa,Sassandra-Marahoué,6.565239,-2.770172
+94,Site #94,Magasin Coop,Issia,Daloa,Sassandra-Marahoué,8.47288,-2.474429
+95,Site #95,Centre Collecte,Ouragahio,Gagnoa,Fromager,9.218548,-3.355874
+96,Site #96,Entrepôt Régional,Agboville,Agboville,Agnéby-Tiassa,7.444988,-2.051755
+97,Site #97,Port,Yamoussoukro,Yamoussoukro,Lacs,7.992154,-3.330482
+98,Site #98,Magasin Coop,Man,Man,Montagnes,8.27751,-5.304474
+99,Site #99,Magasin Coop,Lakota,Gagnoa,Gôh-Djiboua,7.801918,-6.450637
+100,Site #100,Magasin Coop,Tiassalé,Agboville,Agnéby-Tiassa,5.983174,-2.56567
+101,Site #101,Centre Collecte,Issia,Daloa,Sassandra-Marahoué,8.686224,-6.750096
+102,Site #102,Magasin Coop,Anyama,Abidjan,Lagunes,6.421384,-3.953136
+103,Site #103,Magasin Coop,Daloa,Daloa,Sassandra-Marahoué,5.695087,-3.936256
+104,Site #104,Port,San-Pédro,San-Pédro,Bas-Sassandra,5.189681,-4.134822
+105,Site #105,Magasin Coop,Bingerville,Abidjan,Lagunes,7.303608,-2.318171
+106,Site #106,Port,Daloa,Daloa,Sassandra-Marahoué,5.544215,-4.112438
+107,Site #107,Centre Collecte,Oumé,Gagnoa,Fromager,7.602965,-4.995923
+108,Site #108,Centre Collecte,Danané,Man,Montagnes,5.715885,-5.243799
+109,Site #109,Centre Collecte,Bingerville,Abidjan,Lagunes,5.019065,-6.291701
+110,Site #110,Centre Collecte,Lakota,Gagnoa,Gôh-Djiboua,5.247833,-6.323475
+111,Site #111,Centre Collecte,Soubré,San-Pédro,Bas-Sassandra,6.16418,-6.47105
+112,Site #112,Magasin Coop,Lakota,Gagnoa,Gôh-Djiboua,6.50187,-5.310304
+113,Site #113,Entrepôt Régional,Vavoua,Daloa,Sassandra-Marahoué,9.982855,-2.281606
+114,Site #114,Centre Collecte,Lakota,Gagnoa,Gôh-Djiboua,5.951231,-3.022443
+115,Site #115,Magasin Coop,Vavoua,Daloa,Sassandra-Marahoué,8.641823,-2.154651
+116,Site #116,Magasin Coop,Agboville,Agboville,Agnéby-Tiassa,6.333788,-5.432323
+117,Site #117,Magasin Coop,Toumodi,Yamoussoukro,Lacs,8.878552,-5.335319
+118,Site #118,Centre Collecte,Guiglo,Man,Montagnes,5.25596,-4.429313
+119,Site #119,Port,Bingerville,Abidjan,Lagunes,5.136234,-4.360836
+120,Site #120,Magasin Coop,Daloa,Daloa,Sassandra-Marahoué,7.059849,-5.272725
+121,Site #121,Centre Collecte,Sassandra,San-Pédro,Bas-Sassandra,5.083821,-4.574204
+122,Site #122,Magasin Coop,Yamoussoukro,Yamoussoukro,Lacs,9.44088,-3.848627
+123,Site #123,Magasin Coop,Sassandra,San-Pédro,Bas-Sassandra,5.38982,-4.631894
+124,Site #124,Magasin Coop,Tiassalé,Agboville,Agnéby-Tiassa,5.892576,-6.346829
+125,Site #125,Magasin Coop,Gagnoa,Gagnoa,Gôh-Djiboua,9.178864,-5.237729
+126,Site #126,Magasin Coop,Danané,Man,Montagnes,9.612488,-2.096504
+127,Site #127,Centre Collecte,San-Pédro,San-Pédro,Bas-Sassandra,9.700195,-3.988539
+128,Site #128,Centre Collecte,Man,Man,Montagnes,9.846335,-3.126691
+129,Site #129,Magasin Coop,Vavoua,Daloa,Sassandra-Marahoué,8.596998,-6.658426
+130,Site #130,Magasin Coop,Soubré,San-Pédro,Bas-Sassandra,7.635499,-6.870168
+131,Site #131,Entrepôt Régional,Abidjan,Abidjan,Lagunes,5.831778,-2.773941
+132,Site #132,Centre Collecte,Soubré,San-Pédro,Bas-Sassandra,7.542135,-4.472284
+133,Site #133,Centre Collecte,Daloa,Daloa,Sassandra-Marahoué,5.830326,-6.206272
+134,Site #134,Centre Collecte,Sassandra,San-Pédro,Bas-Sassandra,5.864927,-5.279051
+135,Site #135,Magasin Coop,Daloa,Daloa,Sassandra-Marahoué,9.474874,-5.622163
+136,Site #136,Centre Collecte,Danané,Man,Montagnes,9.513075,-5.330081
+137,Site #137,Port,Toumodi,Yamoussoukro,Lacs,6.550878,-4.352896
+138,Site #138,Magasin Coop,Toumodi,Yamoussoukro,Lacs,8.622581,-6.818111
+139,Site #139,Magasin Coop,Tiassalé,Agboville,Agnéby-Tiassa,7.147681,-5.716067
+140,Site #140,Magasin Coop,Divo,Gagnoa,Gôh-Djiboua,9.125922,-6.907594
+141,Site #141,Magasin Coop,Ouragahio,Gagnoa,Fromager,7.435506,-3.506197
+142,Site #142,Port,Sassandra,San-Pédro,Bas-Sassandra,8.582149,-5.398137
+143,Site #143,Magasin Coop,Daloa,Daloa,Sassandra-Marahoué,5.477667,-4.386437
+144,Site #144,Magasin Coop,Anyama,Abidjan,Lagunes,6.476268,-2.463391
+145,Site #145,Port,Soubré,San-Pédro,Bas-Sassandra,7.585811,-3.844127
+146,Site #146,Entrepôt Régional,Bingerville,Abidjan,Lagunes,7.679181,-6.913262
+147,Site #147,Centre Collecte,Soubré,San-Pédro,Bas-Sassandra,8.349881,-3.088012
+148,Site #148,Magasin Coop,Agboville,Agboville,Agnéby-Tiassa,6.24531,-6.356274
+149,Site #149,Magasin Coop,Ouragahio,Gagnoa,Fromager,9.690246,-3.871646
+150,Site #150,Magasin Coop,Sassandra,San-Pédro,Bas-Sassandra,5.304928,-5.355714

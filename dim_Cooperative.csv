@@ -1,0 +1,121 @@
+coop_id,coop_nom,ville,departement,region,certification,date_creation
+1,Coopérative #1,Lakota,Gagnoa,Gôh-Djiboua,Aucune,2017-05-30
+2,Coopérative #2,Lakota,Gagnoa,Gôh-Djiboua,Aucune,2010-04-13
+3,Coopérative #3,Divo,Gagnoa,Gôh-Djiboua,Aucune,2015-08-07
+4,Coopérative #4,Man,Man,Montagnes,UTZ,2014-04-19
+5,Coopérative #5,San-Pédro,San-Pédro,Bas-Sassandra,Fairtrade,2015-04-17
+6,Coopérative #6,San-Pédro,San-Pédro,Bas-Sassandra,Aucune,2015-03-14
+7,Coopérative #7,Agboville,Agboville,Agnéby-Tiassa,Rainforest Alliance,2021-06-12
+8,Coopérative #8,Divo,Gagnoa,Gôh-Djiboua,Aucune,2011-06-20
+9,Coopérative #9,Agboville,Agboville,Agnéby-Tiassa,Aucune,2018-06-07
+10,Coopérative #10,Guiglo,Man,Montagnes,Rainforest Alliance,2016-03-08
+11,Coopérative #11,Lakota,Gagnoa,Gôh-Djiboua,Aucune,2021-11-10
+12,Coopérative #12,Man,Man,Montagnes,Fairtrade,2011-11-04
+13,Coopérative #13,Gagnoa,Gagnoa,Gôh-Djiboua,Aucune,2012-07-15
+14,Coopérative #14,Toumodi,Yamoussoukro,Lacs,Rainforest Alliance,2013-05-12
+15,Coopérative #15,Yamoussoukro,Yamoussoukro,Lacs,Rainforest Alliance,2011-07-16
+16,Coopérative #16,Oumé,Gagnoa,Fromager,Aucune,2015-05-08
+17,Coopérative #17,Lakota,Gagnoa,Gôh-Djiboua,Aucune,2024-08-01
+18,Coopérative #18,Bingerville,Abidjan,Lagunes,Rainforest Alliance,2021-06-16
+19,Coopérative #19,Anyama,Abidjan,Lagunes,Rainforest Alliance,2019-06-14
+20,Coopérative #20,Vavoua,Daloa,Sassandra-Marahoué,Aucune,2020-07-07
+21,Coopérative #21,Agboville,Agboville,Agnéby-Tiassa,Aucune,2024-11-17
+22,Coopérative #22,Divo,Gagnoa,Gôh-Djiboua,Aucune,2022-11-08
+23,Coopérative #23,Bingerville,Abidjan,Lagunes,Rainforest Alliance,2014-07-02
+24,Coopérative #24,Oumé,Gagnoa,Fromager,Rainforest Alliance,2012-12-06
+25,Coopérative #25,Bingerville,Abidjan,Lagunes,Aucune,2024-02-09
+26,Coopérative #26,Toumodi,Yamoussoukro,Lacs,UTZ,2024-02-25
+27,Coopérative #27,Yamoussoukro,Yamoussoukro,Lacs,Fairtrade,2010-03-16
+28,Coopérative #28,Lakota,Gagnoa,Gôh-Djiboua,Bio,2023-10-15
+29,Coopérative #29,Ouragahio,Gagnoa,Fromager,Rainforest Alliance,2011-01-06
+30,Coopérative #30,Tiassalé,Agboville,AGNÉBY-TIASSA,Aucune,2013-07-25
+31,Coopérative #31,Lakota,Gagnoa,GÔH-DJIBOUA,Bio,2012-10-16
+32,Coopérative #32,Gagnoa,Gagnoa,Gôh-Djiboua,Aucune,2022-03-24
+33,Coopérative #33,Guiglo,Man,Montagnes,Rainforest Alliance,2012-08-24
+34,Coopérative #34,Daloa,Daloa,Sassandra-Marahoué,Rainforest Alliance,2010-03-20
+35,Coopérative #35,Daloa,Daloa,Sassandra-Marahoué,Aucune,2012-04-27
+36,Coopérative #36,Ouragahio,Gagnoa,Fromager,Fairtrade,2021-02-22
+37,Coopérative #37,Gagnoa,Gagnoa,Gôh-Djiboua,Aucune,2023-04-01
+38,Coopérative #38,Issia,Daloa,Sassandra-Marahoué,Aucune,2023-02-18
+39,Coopérative #39,Soubré,San-Pédro,Bas-Sassandra,UTZ,2023-02-22
+40,Coopérative #40,Divo,Gagnoa,Gôh-Djiboua,Aucune,2017-11-29
+41,Coopérative #41,Vavoua,Daloa,Sassandra-Marahoué,Fairtrade,2014-02-14
+42,Coopérative #42,Anyama,Abidjan,Lagunes,UTZ,2015-09-25
+43,Coopérative #43,Guiglo,Man,Montagnes,Aucune,2024-02-17
+44,Coopérative #44,Issia,Daloa,Sassandra-Marahoué,Bio,2022-08-02
+45,Coopérative #45,Guiglo,Man,Montagnes,Aucune,2010-09-26
+46,Coopérative #46,Soubré,San-Pédro,Bas-Sassandra,Rainforest Alliance,2014-07-12
+47,Coopérative #47,Issia,Daloa,Sassandra-Marahoué,Aucune,2016-02-28
+48,Coopérative #48,Yamoussoukro,Yamoussoukro,Lacs,Aucune,2015-07-15
+49,Coopérative #49,Issia,Daloa,Sassandra-Marahoué,UTZ,2018-03-26
+50,Coopérative #50,Anyama,Abidjan,Lagunes,Aucune,2011-09-13
+51,Coopérative #51,Lakota,Gagnoa,Gôh-Djiboua,Bio,2018-01-16
+52,Coopérative #52,Bingerville,Abidjan,Lagunes,Fairtrade,2011-09-14
+53,Coopérative #53,San-Pédro,San-Pédro,Bas-Sassandra,Fairtrade,2010-01-29
+54,Coopérative #54,Lakota,Gagnoa,Gôh-Djiboua,Fairtrade,2019-11-04
+55,Coopérative #55,Toumodi,Yamoussoukro,LACS,UTZ,2015-08-25
+56,Coopérative #56,Issia,Daloa,Sassandra-Marahoué,Aucune,2020-06-06
+57,Coopérative #57,Anyama,Abidjan,Lagunes,Fairtrade,2017-04-06
+58,Coopérative #58,Soubré,San-Pédro,Bas-Sassandra,Aucune,2015-09-13
+59,Coopérative #59,Issia,Daloa,Sassandra-Marahoué,Fairtrade,2010-01-08
+60,Coopérative #60,Oumé,Gagnoa,Fromager,Bio,2018-11-11
+61,Coopérative #61,Tiassalé,Agboville,Agnéby-Tiassa,Rainforest Alliance,2021-07-28
+62,Coopérative #62,Gagnoa,Gagnoa,Gôh-Djiboua,Aucune,2018-01-03
+63,Coopérative #63,Tiassalé,Agboville,Agnéby-Tiassa,Fairtrade,2020-10-08
+64,Coopérative #64,San-Pédro,San-Pédro,Bas-Sassandra,Rainforest Alliance,2019-11-27
+65,Coopérative #65,Danané,Man,Montagnes,Fairtrade,2019-04-30
+66,Coopérative #66,Issia,Daloa,SASSANDRA-MARAHOUÉ,Fairtrade,2012-03-23
+67,Coopérative #67,Daloa,Daloa,Sassandra-Marahoué,Bio,2010-05-09
+68,Coopérative #68,Divo,Gagnoa,Gôh-Djiboua,Rainforest Alliance,2015-01-30
+69,Coopérative #69,Abidjan,Abidjan,Lagunes,Aucune,2012-09-14
+70,Coopérative #70,Vavoua,Daloa,Sassandra-Marahoué,Rainforest Alliance,2018-01-31
+71,Coopérative #71,Oumé,Gagnoa,Fromager,Aucune,2015-07-03
+72,Coopérative #72,Soubré,San-Pédro,Bas-Sassandra,Rainforest Alliance,2021-12-28
+73,Coopérative #73,Toumodi,Yamoussoukro,Lacs,Fairtrade,2024-07-20
+74,Coopérative #74,Abidjan,Abidjan,Lagunes,Aucune,2023-01-27
+75,Coopérative #75,Guiglo,Man,Montagnes,Aucune,2011-09-18
+76,Coopérative #76,Guiglo,Man,Montagnes,Aucune,2020-04-15
+77,Coopérative #77,San-Pédro,San-Pédro,Bas-Sassandra,Bio,2021-03-22
+78,Coopérative #78,Anyama,Abidjan,Lagunes,Rainforest Alliance,2012-07-05
+79,Coopérative #79,San-Pédro,San-Pédro,Bas-Sassandra,Aucune,2021-10-27
+80,Coopérative #80,Sassandra,San-Pédro,Bas-Sassandra,Aucune,2010-03-19
+81,Coopérative #81,Daloa,Daloa,Sassandra-Marahoué,Fairtrade,2013-05-11
+82,Coopérative #82,Daloa,Daloa,Sassandra-Marahoué,Rainforest Alliance,2012-05-31
+83,Coopérative #83,Gagnoa,Gagnoa,Gôh-Djiboua,Aucune,2011-12-16
+84,Coopérative #84,Lakota,Gagnoa,Gôh-Djiboua,Rainforest Alliance,2012-11-29
+85,Coopérative #85,Vavoua,Daloa,Sassandra-Marahoué,Aucune,2011-05-25
+86,Coopérative #86,Tiassalé,Agboville,Agnéby-Tiassa,Fairtrade,2010-07-14
+87,Coopérative #87,Soubré,San-Pédro,Bas-Sassandra,Rainforest Alliance,2022-10-07
+88,Coopérative #88,Bingerville,Abidjan,Lagunes,Aucune,2015-04-16
+89,Coopérative #89,Daloa,Daloa,Sassandra-Marahoué,Fairtrade,2010-05-18
+90,Coopérative #90,Vavoua,Daloa,Sassandra-Marahoué,Aucune,2013-11-01
+91,Coopérative #91,Ouragahio,Gagnoa,Fromager,Rainforest Alliance,2011-06-12
+92,Coopérative #92,Vavoua,Daloa,Sassandra-Marahoué,UTZ,2015-03-03
+93,Coopérative #93,Ouragahio,Gagnoa,Fromager,Fairtrade,2018-08-20
+94,Coopérative #94,Guiglo,Man,Montagnes,Rainforest Alliance,2013-09-29
+95,Coopérative #95,Man,Man,Montagnes,UTZ,2020-10-07
+96,Coopérative #96,Sassandra,San-Pédro,Bas-Sassandra,Aucune,2015-04-22
+97,Coopérative #97,Gagnoa,Gagnoa,Gôh-Djiboua,Aucune,2019-01-21
+98,Coopérative #98,Toumodi,Yamoussoukro,Lacs,Fairtrade,2021-11-13
+99,Coopérative #99,Yamoussoukro,Yamoussoukro,Lacs,Aucune,2012-11-19
+100,Coopérative #100,Oumé,Gagnoa,Fromager,Aucune,2022-02-17
+101,Coopérative #101,Toumodi,Yamoussoukro,Lacs,Aucune,2013-08-10
+102,Coopérative #102,Bingerville,Abidjan,Lagunes,Aucune,2014-03-14
+103,Coopérative #103,Issia,Daloa,Sassandra-Marahoué,Aucune,2019-09-29
+104,Coopérative #104,Sassandra,San-Pédro,Bas-Sassandra,Fairtrade,2024-12-23
+105,Coopérative #105,Bingerville,Abidjan,Lagunes,Bio,2022-10-30
+106,Coopérative #106,Agboville,Agboville,Agnéby-Tiassa,Rainforest Alliance,2016-11-27
+107,Coopérative #107,Agboville,Agboville,Agnéby-Tiassa,Aucune,2021-09-29
+108,Coopérative #108,Soubré,San-Pédro,Bas-Sassandra,Fairtrade,2020-05-17
+109,Coopérative #109,Yamoussoukro,Yamoussoukro,Lacs,Bio,2021-06-09
+110,Coopérative #110,Bingerville,Abidjan,Lagunes,Aucune,2017-08-18
+111,Coopérative #111,Issia,Daloa,SASSANDRA-MARAHOUÉ,UTZ,2024-05-16
+112,Coopérative #112,Man,Man,Montagnes,Aucune,2016-01-18
+113,Coopérative #113,Vavoua,Daloa,Sassandra-Marahoué,UTZ,2020-05-19
+114,Coopérative #114,Sassandra,San-Pédro,Bas-Sassandra,Rainforest Alliance,2019-04-03
+115,Coopérative #115,Ouragahio,Gagnoa,Fromager,Aucune,2019-08-04
+116,Coopérative #116,Yamoussoukro,Yamoussoukro,Lacs,Aucune,2013-07-03
+117,Coopérative #117,Yamoussoukro,Yamoussoukro,Lacs,Fairtrade,2018-01-10
+118,Coopérative #118,Yamoussoukro,Yamoussoukro,Lacs,Aucune,2020-07-01
+119,Coopérative #119,Toumodi,Yamoussoukro,Lacs,Aucune,2011-02-10
+120,Coopérative #120,Yamoussoukro,Yamoussoukro,Lacs,Rainforest Alliance,2022-05-07
