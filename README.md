@@ -117,7 +117,7 @@ Transport dominant : Camion + Rail
     
     o	Design du Dashboard clair et attrayant ;
     
-    o	Analyse Géographique et Logistique.
+    o	Analyse Géographique et de la Chaine Logistique.
     
 ---
 
