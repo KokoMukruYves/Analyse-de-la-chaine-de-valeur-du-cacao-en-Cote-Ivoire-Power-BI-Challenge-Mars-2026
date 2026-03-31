@@ -7,6 +7,13 @@
 <details>
 <summary id="introduction"> Introduction</summary>
 
+🎯 Objectifs
+* Analyser la production de cacao par produit, ferme et coopérative ;
+* Suivre les indicateurs de qualité (humidité, pertes)
+* Évaluer la performance logistique (transport et stockage)
+* Mesurer la performance financière (prix, valeur nette, marges)
+* Visualiser les flux d’exportation via les ports
+
 #Modelisation en Etoile
 
 <img width="699" height="498" alt="image" src="https://github.com/user-attachments/assets/b4682f96-eaf3-4873-85ef-5f43812bf9aa" />
@@ -93,9 +100,7 @@ Mini Challenge du 01 mars au 05 Avril 2026
 
 ---
 
-[![Power BI Dashboard](https://img.shields.io/badge/Click_here_to_access_the_interactive_dashboard-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiZDU0YTIwNTEtN2VjMi00NjA5LWJkOTgtOTI2MGQwMDIyY2RmIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
-
-
+[![Power BI Dashboard](https://img.shields.io/badge/Cliquez_ici_pour_acceder_au_tableau_de_bord_interactif-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](<iframe title="Koko_Mukuru_Yves_Challenge_Chaine_Logistique_cacao_CI_Mars 2026" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjYxOWFiMTAtMzdiNS00YTA2LTlkODUtYmZkNmIzZGRiYjRjIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 ## 🔗 Connect with me
