@@ -110,9 +110,11 @@ The analysis followed a structured **ETL pipeline**:
 
 ## 🏆 Details par rapport au Challenge
 
-Organisateur : Tresor ADOSSI : Mini Challenge 31 – October 2025 
+Organisateur : Tresor ADOSSI
 
 Theme: Challenge Power-BI Chaine d'Approvisionnement Cacao (Cote d'Ivoire)
+
+Mini Challenge 01 mars au 05 Avril 2026 
 
 ---
 
