@@ -157,6 +157,23 @@ Ce qui peut entrainer qu'il y ait de fluctuations fortes pour une et non telle a
 ---
 
 ## Recommendations
+----
+##  🧮Mesures clés
+Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit entre autres:
+
+- Age Moyen de la ferme et de la Coopérative ;
+- Volume Total de Production ;
+- Marge Bénéficiaire totale ;
+- Cout Logistique (Transport et Stockage)
+- Volume Export ;
+- Humidité Moyenne ;
+- Taux de Perte ;
+- Taux de Rendement ;
+- Target Humidité, Rendement ;
+- Total Mouvements ;
+- Total Sac ;
+-  YOY
+-  Etc. 
 
 ---
 # 🛠 Outils et Compétences demontrées
