@@ -1,13 +1,13 @@
 # Analyse-de-la-chaine-de-valeur-du-cacao-en-Cote-d'Ivoire-Power-BI-Challenge-Mars-2026
 <img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/c867626e-319e-4c38-ba34-2e7c127a4ec6" />
+<img width="154" height="141" alt="image" src="https://github.com/user-attachments/assets/37ab856c-75d7-4fe6-b9c6-03c937c62a47" />
+
 
 <img width="206" height="262" alt="image" src="https://github.com/user-attachments/assets/070595a0-d454-4082-88ae-496284c1d495" />
 <img width="209" height="267" alt="image" src="https://github.com/user-attachments/assets/06529dfa-1907-4035-9fba-f5ca6ba41546" />
 
 <img width="215" height="209" alt="image" src="https://github.com/user-attachments/assets/c6201dcf-0c90-487f-8886-77ee3f8a0647" />
 
-
-![cocoa b](https://github.com/user-attachments/assets/9c071a33-cf76-4224-9fbb-53f23a5998d1)
 
 
 Projet réalisé dans le cadre d’un challenge en data analytics, portant sur la chaîne de valeur du cacao en Côte d’Ivoire. Il consiste à développer un dashboard Power BI interactif pour analyser la supply chain, de la production à l’export, et générer des insights sur la performance, la qualité et la logistique.
