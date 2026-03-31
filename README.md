@@ -114,7 +114,7 @@ Organisateur : Tresor ADOSSI
 
 Theme: Challenge Power-BI Chaine d'Approvisionnement Cacao (Cote d'Ivoire)
 
-Mini Challenge 01 mars au 05 Avril 2026 
+Mini Challenge du 01 mars au 05 Avril 2026 
 
 ---
 
