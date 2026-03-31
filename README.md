@@ -2,21 +2,6 @@
 
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/4b01d37e-2e16-4b7f-9a4f-bad9adc23e4b)
 
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/c867626e-319e-4c38-ba34-2e7c127a4ec6" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/7f8ab11c-9e75-4142-bf7d-165054b5c6a2" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/0a3b896d-05b3-4096-bd35-22cf5549d356" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/72cde0c0-ae08-4423-8e28-d11637c3f806" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/79d41534-7d69-4768-a2ab-e67e23bb38ac" />
-
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/8a5df154-880c-4fb8-bed5-f4a0e9a4d121" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/e35c3c07-c3a0-4816-ab14-04b3303920a0" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/070595a0-d454-4082-88ae-496284c1d495" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/7cc3209e-de2e-4223-8f7f-9b8d4da2cf83" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/bc42999c-bd8b-446f-b9a1-de79b5b50224" />
-<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/729a8f61-9674-432f-9f38-f032555f6fa4" />
-
-<img width="215" height="209" alt="image" src="https://github.com/user-attachments/assets/c6201dcf-0c90-487f-8886-77ee3f8a0647" />
-
 ---
 
 <details>
