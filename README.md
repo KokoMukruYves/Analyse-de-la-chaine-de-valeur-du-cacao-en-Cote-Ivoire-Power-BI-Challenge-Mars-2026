@@ -34,9 +34,9 @@ Le processus ETL a consisté principalement au Nettoyage, transformation et impo
 
 Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les activités suivantes :
 
-   o	Identifier les doublons et leur suppression.
+o Identifier les doublons et leur suppression.
    
-   o	Identifier des devises incohérentes et leur standardisation ;
+o Identifier des devises incohérentes et leur standardisation ;
    
    o    Identifier les valeurs négatives (poids/sacs) et les adresser ;
    
