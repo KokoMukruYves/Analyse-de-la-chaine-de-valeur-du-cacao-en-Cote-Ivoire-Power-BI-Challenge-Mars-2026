@@ -105,7 +105,7 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
 ![ezgif com-speed](https://github.com/user-attachments/assets/d0d233d8-c9d1-42b1-b3c9-9f4bfff472e6)
 
 
-## 🔎 Synthèse analytique de la chaîne de valeur du Cocoa en Côte d'Ivoire
+## 🔎 V. Synthèse analytiques de la chaîne de valeur du Cocoa en Côte d'Ivoire
 
 | Section | KPI / Thème | Constat / Insight | Recommandation stratégique |
 |---------|-------------|-------------------|---------------------------|
@@ -126,8 +126,8 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
 | **📊 Projections & sensibilité** | Impact variation prix | Variation prix → impact direct sur CA | Mettre en place des outils de couverture ou de contrat long terme pour stabiliser les revenus |
 | | Impact taux de change | Fluctuation impacte la valeur nette export | Intégrer une gestion active du risque de change |
 | | Surface cultivée vs production | Corrélation positive : +0,29 variation surface → hausse production | Encourager l'expansion contrôlée avec des pratiques durables |
----
-# 🛠 V. Outils et Compétences demontrées
+
+## 🛠 VI. Outils et Compétences demontrées
 
     o	Power BI ; 	
     
@@ -149,8 +149,7 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
     
     o	Analyse Géographique et de la Chaine Logistique.
     
----
-## 🎯 VI. Conclusion
+## 🎯 VII. Conclusion
 
 Ce projet démontre comment un nettoyage, une transformation et une modélisation structurés des données permettent de convertir des jeux de données bruts en insights analytiques pertinents.
 
@@ -159,7 +158,7 @@ Le tableau de bord offre une vue claire et structurée de la chaîne d’approvi
 ---
 
 
-## 🏆 VII. Details par rapport au Challenge
+## 🏆 VIII. Details par rapport au Challenge
 
 
     o	Organisateur : Tresor ADOSSI
