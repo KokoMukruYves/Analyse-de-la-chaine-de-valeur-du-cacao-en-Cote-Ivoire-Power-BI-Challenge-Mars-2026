@@ -108,6 +108,119 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
 
 ## 🔎 Résultats des analyses 
 
+# Cacao Supply Chain Analytics - Côte d'Ivoire
+
+## 📊 Synthèse analytique de la chaîne logistique
+
+| Section | KPI / Thème | Constat / Insight | Recommandation stratégique |
+|---------|-------------|-------------------|---------------------------|
+| **📈 Performance commerciale** | Chiffre d'affaires | Évolution positive mais marquée par une saisonnalité forte (campagnes 2023/24 → 2025/26 : 10,2M → 14,0M tonnes export) | Renforcer la planification des stocks pour lisser les pics de campagne et maximiser les opportunités de prix |
+| | Marge bénéficiaire nette | 4,9% (faible) malgré un CA élevé, avec une marge en légère hausse pour les produits premium | Poursuivre la montée en gamme et la certification pour améliorer la rentabilité |
+| **🚛 Logistique & coûts** | Coût logistique/tonne | 3,2K FCFA, avec des pics à 13K FCFA pour l'export | Optimiser les trajets et réduire la dépendance aux sous-traitants peu performants |
+| | Flux dominant | Coop → Centre collecte → Transport → Port (camion + rail prédominant) | Fluidifier les interfaces entre étapes pour réduire les pertes et délais |
+| **💧 Qualité & pertes** | Taux de perte moyen | 1,77%, concentré sur transport et stockage | Cibler les goulots critiques avec des audits et formations |
+| | Humidité moyenne | 7,5%, avec zones > 8% entraînant des risques de rejet à l'import | Renforcer le séchage post-récolte et former les producteurs |
+| **🏭 Certification & valeur** | Impact certification | Lots certifiés → valeur nette supérieure (primes) ; export certifié : 21,82M vs non certifié 19,39M tonnes | Accélérer la certification des coopératives pour augmenter la valeur ajoutée |
+| **🌱 Concentration production** | Volume production | 290,7K tonnes, fortement concentrée (ex : Lacs, coopératives #88, #16, #102) | Diversifier la base producteurs pour réduire la vulnérabilité |
+| | Top fermes | Abdou Assé (8105, 11218, 11439) domine en volume | Éviter la dépendance excessive à quelques producteurs clés |
+| **⚖️ Rentabilité & prix** | Prix moyen | Varie selon qualité, humidité, certification, grade ; premium génère plus de revenus (ex : produit ID 2 : +4,79% marge) | Favoriser les segments premium et valoriser la traçabilité qualité/prix |
+| **📦 Export & ports** | Volume export | Port de San-Pédro : 41,2M tonnes ; Port d'Abidjan : 20,29M tonnes | Équilibrer les flux entre ports pour réduire les congestions et optimiser les coûts |
+| | Valeur nette export | San-Pédro : 15,32T FCFA ; Abidjan : 14,76T FCFA | San-Pédro plus performant en valeur → analyser et reproduire les bonnes pratiques |
+| **📅 Dynamique temporelle** | Saisonnalité | Forte concentration des volumes sur les campagnes, avec fluctuations importantes | Mettre en place un stockage tampon et une gestion prévisionnelle des ressources |
+| | Évolution du nombre de fermes | Croissance régulière (~4400 fermes sur la période) | Accompagner cette croissance par des programmes de formation et de certification |
+| **📊 Projections & sensibilité** | Impact variation prix | Variation prix → impact direct sur CA | Mettre en place des outils de couverture ou de contrat long terme pour stabiliser les revenus |
+| | Impact taux de change | Fluctuation impacte la valeur nette export | Intégrer une gestion active du risque de change |
+| | Surface cultivée vs production | Corrélation positive : +0,29 variation surface → hausse production | Encourager l'expansion contrôlée avec des pratiques durables |
+
+---
+
+## 📉 3. Pertes dans la chaîne de valeur
+
+| KPI | Valeurs | Constat/Implications | Recommandation |
+|-----|---------|---------------------|----------------|
+| Taux de perte moyenne | 1.77% | Les pertes ne sont pas homogènes, elles se concentrent sur certaines étapes (transport / stockage) | Identifier les goulots d'étranglement critiques et mettre en place des actions ciblées (meilleure manutention, suivi des conditions de stockage) |
+
+---
+
+## 💧 4. Qualité du cacao (Humidité)
+
+| KPI | Valeurs | Constat/Implications | Recommandation |
+|-----|---------|---------------------|----------------|
+| Humidité moyenne | 7.5% | Certaines zones présentent des niveaux d'humidité supérieurs aux standards (≈ 7–8%), entraînant un risque de rejet à l'importation | ✔ Renforcer le séchage post-récolte<br>✔ Former les producteurs aux bonnes pratiques de séchage et de conservation |
+
+---
+
+## 🚚 5. Performance logistique
+
+| KPI | Valeurs | Constat/Implications | Recommandation |
+|-----|---------|---------------------|----------------|
+| Coût logistique/tonne | 3.2K FCFA | Trop élevé | Revoir les contrats avec les transporteurs et optimiser les tournées |
+| Coût/kg par transporteur | Variable | Certains transporteurs ont un coût par kg significativement plus élevé | Évaluer la performance des transporteurs et renégocier ou remplacer les moins performants |
+| Activité la plus coûteuse | 🚢 Export (~13K) | L'export génère des coûts disproportionnés | Analyser les postes de coûts spécifiques à l'export pour identifier des leviers de réduction |
+| Mode de transport dominant | Camion + Rail | Dépendance à ces deux modes | Étudier l'optimisation des combinaisons de transport pour réduire les coûts |
+| Optimisation des trajets | Manque d'optimisation | Présence de sous-traitants moins performants | Centraliser la planification des tournées et réduire le recours aux sous-traitants inefficaces |
+
+---
+
+## 🌱 6. Performance de production
+
+| KPI | Valeurs | Constat/Implications | Recommandation |
+|-----|---------|---------------------|----------------|
+| Production totale | 290.7K tonnes | Forte contribution de certaines zones (ex : Lacs) | Diversifier les zones de production pour réduire la dépendance et sécuriser l'approvisionnement |
+| Concentration de la production | Forte concentration autour de certaines coopératives et fermes clés | Une minorité de coopératives et fermes génèrent la majorité du volume, entraînant une forte dépendance | Diversifier la base de producteurs pour réduire les risques de rupture et renforcer la résilience |
+| Chiffre d'affaires | 41.06T FCFA | Volume de production élevé soutenant le CA | Maintenir la dynamique tout en surveillant l'évolution des coûts de production |
+| Marge bénéficiaire | 4.9% | Faible marge malgré un CA important | Analyser la structure des coûts (matières premières, logistique, main-d'œuvre) pour identifier des leviers d'amélioration de la rentabilité |
+
+---
+
+## 🏭 7. Certification & valeur
+
+| KPI | Valeurs | Constat/Implications | Recommandation |
+|-----|---------|---------------------|----------------|
+| Impact de la certification | Positif sur le chiffre d'affaires | Les lots certifiés ont une valeur nette supérieure grâce aux primes ; la prime de certification augmente le revenu | Accroître le taux de certification des producteurs pour maximiser la valeur ajoutée et améliorer la rentabilité globale |
+| Flux logistique dominant | Coop → Centre de collecte → Transport → Port | La chaîne d'approvisionnement suit un circuit standardisé avec des étapes clés bien identifiées | Optimiser chaque étape du flux pour réduire les pertes et les coûts, notamment au niveau du transport et du stockage intermédiaire |
+
+---
+
+## 📈 8. Dynamique temporelle
+
+| KPI | Valeurs | Constat/Implications | Recommandation |
+|-----|---------|---------------------|----------------|
+| Saisonnalité de la production | Forte saisonnalité liée aux campagnes cacao | Fluctuations fortes selon les périodes, entraînant une irrégularité dans les volumes disponibles et une pression sur les ressources en pic d'activité | Mettre en place une planification anticipée (stockage tampon, gestion des effectifs, diversification des périodes de collecte) pour lisser l'impact des pics et creux de production |
+
+---
+
+## ⚖️ 9. Rentabilité & prix
+
+| KPI | Valeurs | Constat/Implications | Recommandation |
+|-----|---------|---------------------|----------------|
+| Prix moyen | Variable selon qualité, humidité, certification et grade (Premium vs Standard) | Les produits premium génèrent le plus de revenus | Accompagner les producteurs vers l'obtention de certifications et l'amélioration de la qualité pour augmenter la part des produits premium et maximiser les revenus |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 
 ## 🌱 1. Performance de production
 
