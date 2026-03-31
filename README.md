@@ -104,7 +104,7 @@ Transport dominant : Camion + Rail
 
     o	Organisateur : Tresor ADOSSI
 
-    o	Theme: Challenge Power-BI Chaine d'Approvisionnement Cacao (Côte d’Ivoire)
+    o	Thème: Challenge Power-BI Chaine d'Approvisionnement Cacao (Côte d’Ivoire)
 
     o	Durée:   du 01 mars au 05 Avril 2026 
 
