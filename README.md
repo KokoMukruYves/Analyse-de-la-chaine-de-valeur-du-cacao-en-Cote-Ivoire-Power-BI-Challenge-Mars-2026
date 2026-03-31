@@ -1,6 +1,7 @@
 # Analyse-de-la-chaine-de-valeur-du-cacao-en-Cote-d'Ivoire-Power-BI-Challenge-Mars-2026
 <img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/c867626e-319e-4c38-ba34-2e7c127a4ec6" />
-<img width="214" height="211" alt="image" src="https://github.com/user-attachments/assets/37ab856c-75d7-4fe6-b9c6-03c937c62a47" />
+<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/37ab856c-75d7-4fe6-b9c6-03c937c62a47" />
+<img width="213" height="206" alt="image" src="https://github.com/user-attachments/assets/72cde0c0-ae08-4423-8e28-d11637c3f806" />
 
 
 <img width="206" height="262" alt="image" src="https://github.com/user-attachments/assets/070595a0-d454-4082-88ae-496284c1d495" />
