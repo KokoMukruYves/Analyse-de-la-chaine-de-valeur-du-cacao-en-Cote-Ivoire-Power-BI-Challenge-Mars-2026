@@ -34,21 +34,31 @@ Le processus ETL a consisté principalement au Nettoyage, transformation et impo
 
 Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les activités suivantes :
 
-   o	 Identifier les doublons et leur suppression.
-   o	 Identifier des devises incohérentes et leur standardisation ;
-   o   Identifier les valeurs négatives (poids/sacs) et les adresser ;
-   o	 Corriger les montants incohérents (supprimer le "." et le remplacer par la ",";
-   o	 Identifier/ajouter de clés étrangères manquantes non existante afin de faciliter la liason entre tables
-      (Ex: Création de la Produit ID dans Dim_Lot;
+   o	Identifier les doublons et leur suppression.
+   
+   o	Identifier des devises incohérentes et leur standardisation ;
+   
+   o    Identifier les valeurs négatives (poids/sacs) et les adresser ;
+   
+   o	Corriger les montants incohérents (supprimer le "." et le remplacer par la ",";
+   
+   o	Identifier/ajouter de clés étrangères manquantes non existante afin de faciliter la liason entre tables
+        (Ex: Création de la Produit ID dans Dim_Lot;
+      
    o	Supprimer les clés étrangères hors plage ;
-   o	 Standardiser le format de dates car au départ le format était mixtes (2002/01/20 ; 20-01-2002, etc.).
-   o	 Normalisation de valeurs textuelles pour palier au problè d'incohérences d’accents/casse (Ex: Nom de région au départ non 
-       standardisés) ;
+   
+   o	Standardiser le format de dates car au départ le format était mixtes (2002/01/20 ; 20-01-2002, etc.).
+   
+   o	Normalisation de valeurs textuelles pour palier au problè d'incohérences d’accents/casse (Ex: Nom de région au départ non 
+        standardisés) ;
+        
    o	Supprimer les duplicats dans la dimension producteurs pour assurer l'uniquité des données.
    
    o	Convertir le format de variable vers leur forme canonique (du format textuel vers le numérique et vis-versa au cas échéant).
+   
    o	 Fusionner certaines dimensions en une dimension unique: tel est le cas de la dimension Lot, Produit, Ferme & Coopération tout en 
-       supprimant les colonnes rédondantes ;
+         supprimant les colonnes rédondantes ;
+         
    o	Suppression des espaces blancs unitules.
 
 #Modelisation en Etoile
