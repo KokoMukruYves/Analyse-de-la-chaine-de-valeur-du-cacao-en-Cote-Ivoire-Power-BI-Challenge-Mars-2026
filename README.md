@@ -132,16 +132,12 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
     o	Power BI ; 	
     
     o	Power Query ;
-    
-    o	Nettoyage et Standardisation de données brutes ;
-    
+      
     o	Transformation de données brutes en données exploitable ;
     
     o   Modalisation de données ;
     
-    o	Création de la Table Date ainsi que les tables captant la variation de certains paramètres macroéconomiques ;
-    
-    o	Intelligence Temporelle ;
+    o	Création de la Table Date (Time Intelligence) ainsi que les tables captant la variation de certains paramètres macroéconomiques ;
     
     o	Design du Dashboard clair et attrayant ;
     
