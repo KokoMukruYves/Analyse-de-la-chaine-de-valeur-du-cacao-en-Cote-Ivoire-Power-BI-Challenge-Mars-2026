@@ -64,7 +64,7 @@ Le nettoyage en soit, a été l'étape cruciale où nous avions effectué les ac
         cas échéant).
 
     o	Fusion de certaines dimensions en une dimension unique: tel est le cas de la dimension Lot, Produit, Ferme &
-        Coopération tout en supprimant les colonnes rédondantes ;
+        Coopération tout en supprimant les colonnes rédondantes (ID, données géographiques, ...);
 
     o	Suppression des espaces blancs unitules.
 
