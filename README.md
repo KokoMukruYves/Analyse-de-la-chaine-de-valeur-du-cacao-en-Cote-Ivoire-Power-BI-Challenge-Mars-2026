@@ -51,7 +51,7 @@ Le nettoyage en soit, a été l'étape cruciale où nous avions effectué les ac
     o	Suppression des clés étrangères hors plage (Ex: port ID de 11,6 alors que les identifications sont 1 et 2);
 
     o	Standardisation du format de dates en évitant de formats mixtes (2002/01/20 ; 20-01-2002, etc. au sein
-        d'une mm colonne);
+        d'une même colonne);
 
     o	Normalisation de valeurs textuelles pour palier au problème d'incohérences d’accents/casse (Ex: Nom de région 
         au départ non standardisés) ;
