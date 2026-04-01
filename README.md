@@ -34,7 +34,7 @@ Pour développer des fonctions temporelles intelligentes, la Table Date a été 
 
 Le processus ETL a consisté principalement au Nettoyage, transformation et importation des données.
 
-Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les activités suivantes :
+Le nettoyage en soit, a été l'étape cruciale où nous avions effectuer les activités suivantes :
 
 
     o	Identification les doublons et leur suppression ;
