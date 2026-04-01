@@ -56,7 +56,7 @@ Le nettoyage en soit, a été l'étape cruciale où nous avions effectué les ac
     o	Normalisation de valeurs textuelles pour palier au problème d'incohérences d’accents/casse (Ex: Noms de région 
         au départ non standardisés) ; 
         
-    o	Renomer certaines colonnes pour plus de lisibilité et clarté ;
+    o	Renommer certaines colonnes pour plus de lisibilité et clarté ;
 
     o	Suppression des duplicats dans la dimension producteurs pour assurer l'uniquité des données ;
 
