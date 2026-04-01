@@ -164,8 +164,7 @@ Le tableau de bord offre une vue claire et structurée de la chaîne d’approvi
     o	Thème: Challenge Power-BI Chaine d'Approvisionnement Cacao (Côte d’Ivoire)
 
     o	Durée:   du 01 mars au 05 Avril 2026 
-
----
+    
 
 [![Power BI Dashboard](https://img.shields.io/badge/Cliquez_ici_pour_acceder_au_tableau_de_bord_interactif-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYjYxOWFiMTAtMzdiNS00YTA2LTlkODUtYmZkNmIzZGRiYjRjIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
