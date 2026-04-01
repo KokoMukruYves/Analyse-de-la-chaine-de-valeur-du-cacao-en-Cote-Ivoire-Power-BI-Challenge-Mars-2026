@@ -53,8 +53,10 @@ Le nettoyage en soit, a été l'étape cruciale où nous avions effectué les ac
     o	Standardisation du format de dates en évitant de formats mixtes (2002/01/20 ; 20-01-2002, etc. au sein
         d'une même colonne);
 
-    o	Normalisation de valeurs textuelles pour palier au problème d'incohérences d’accents/casse (Ex: Nom de région 
-        au départ non standardisés) ;
+    o	Normalisation de valeurs textuelles pour palier au problème d'incohérences d’accents/casse (Ex: Noms de région 
+        au départ non standardisés) ; 
+        
+    o	Renomer certaines colonnes pour plus de lisibilité et clarté ;
 
     o	Suppression des duplicats dans la dimension producteurs pour assurer l'uniquité des données ;
 
