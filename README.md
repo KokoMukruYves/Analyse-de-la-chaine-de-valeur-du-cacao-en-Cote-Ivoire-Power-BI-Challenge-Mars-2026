@@ -27,7 +27,7 @@ Le développement de ce projet était animé par le souci d' (d):
 
 Les données d'analyse sont organisées en 10 tables dont 9 dimensions et une de faits (Fact_Mouvements). Il s'agit entre autres des dimensions: Produits, Lot, Coopérative, Ferme, Evenements, Sites, Transporteurs, Ports et Devises. 
 
-Pour développer des fonctions temporelles intelligentes, la Table Date a été également créée ainsi que 3 autres tables permettant de capter l'impact de la variation de certains paramètres sur les indicateurs de performance de la chaine de valeur du Cacao. Tel est le cas de table sur la variation du prix, du taux de change et de la surface cultivée.
+Pour développer des fonctions temporelles intelligentes, la Table Date a été également créée ainsi que 3 autres tables permettant de capter l'impact de la variation de certains paramètres sur les indicateurs de performance de la chaine de valeur du Cacao. Tel est le cas de la table sur la variation du prix, du taux de change et de la surface cultivée.
 
 
 ## 🧹II. Processus ETL
