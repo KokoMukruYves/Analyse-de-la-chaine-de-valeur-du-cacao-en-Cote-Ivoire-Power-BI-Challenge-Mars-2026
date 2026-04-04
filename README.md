@@ -64,11 +64,11 @@ Le nettoyage en soit, a été l'étape cruciale où nous avions effectué les ac
         cas échéant).
 
     o	Fusion de certaines dimensions en une dimension unique: tel est le cas de la dimension Lot, Produit, Ferme &
-        Coopératives tout en supprimant les colonnes rédondantes (ID, données géographiques, ...);
+        Coopératives tout en supprimant les colonnes rédondantes (certains ID, données géographiques, ...);
 
     o	Suppression des espaces blancs unitules.
 
-Après s'etre rassuré que les données sont déjà  de qualité et donc préparées suffisament pour l'analyse, la modelisation a été un pond crucial afin d'établir des relations et rendre l'extraction de l'information pertinente possible.
+Après s'etre rassuré que les données sont déjà  de qualité et donc préparées suffisament pour l'analyse, la modelisation a été un pont crucial afin d'établir des relations et rendre l'extraction de l'information pertinente possible.
 
 ##### 🏗 Modélisation en Etoile
 
